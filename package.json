@@ -1,0 +1,26 @@
+{
+  "name": "meat-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "2.0.1",
+    "mongoose": "4.13.9",
+    "restify-cors-middleware": "1.1.0",
+    "restify-errors": "5.0.0"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "1.0.0",
+    "@types/mongoose": "4.7.32",
+    "@types/restify": "5.0.6",
+    "@types/restify-cors-middleware": "1.0.1",
+    "@types/restify-errors": "4.3.2",
+    "restify": "^6.3.4"
+  }
+}
